@@ -1,4 +1,7 @@
 // STEP 1 - Get the modules here exported before building out your components
+import { numbers } from "./components/ButtonComponents/NumberButtons/Numbers";
+import { operators } from "./components/ButtonComponents/OperatorButtons/Operators";
+import { specials } from "./components/ButtonComponents/SpecialButtons/Specials";
 // Don't worry about bringing all of these into the same file.
 // Export them as necessary and import each array into its appropriate
 // file. No real tricks here just be aware of what is in each array

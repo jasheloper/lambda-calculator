@@ -1,0 +1,19 @@
+.container {
+    background-color: #bb1333;
+    max-width: 250px;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+.left {
+    display: flex;
+    padding: 1em;
+    flex-wrap: wrap;
+    width: 75%;
+}
+
+.right {
+    display: flex;
+    flex-wrap: wrap;
+    width: 25%;
+}
